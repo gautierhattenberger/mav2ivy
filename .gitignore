@@ -1,0 +1,6 @@
+bin/
+lib/
+build/
+*~
+*.swp
+CMakeCache.txt
