@@ -1,0 +1,9 @@
+<launch>
+
+  <node pkg="mav2ivy" type="mav2ivy_node" name="Mav2Ivy" output="screen">
+
+  </node>
+
+</launch>
+
+

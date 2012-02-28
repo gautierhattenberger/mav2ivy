@@ -1,0 +1,17 @@
+<package>
+  <description brief="mav2ivy">
+
+     mav2ivy
+
+  </description>
+  <author>Gautier Hattenberger</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/mav2ivy</url>
+  <depend package="roscpp"/>
+  <depend package="mav_msgs"/>
+  <depend package="sensor_msgs"/>
+
+</package>
+
+
